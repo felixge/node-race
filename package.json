@@ -1,9 +1,11 @@
 {
   "author": "Felix Geisendörfer <felix@debuggable.com> (http://debuggable.com/)",
   "name": "race",
-  "bin" : { "race" : "./bin/race.js" },
+  "bin": {
+    "race": "./bin/race.js"
+  },
   "description": "Restarts a given node script until it fails.",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/felixge/node-race",
   "repository": {
     "type": "git",
